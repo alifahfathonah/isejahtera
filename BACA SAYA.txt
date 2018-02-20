@@ -1,0 +1,16 @@
+======= LOGIN ======
+
+Ketik di URL : localhost/isejahtera -> dengan catatan database sudah di import
+
+username : admin
+password : admin
+
+
+==== CREATED BY ====
+
+43A87007140399
+Aditria Putra Pardana
+S1/SI/7KP
+STMIK BANI SALEH
+
+====================
