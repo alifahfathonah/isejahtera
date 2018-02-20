@@ -1,5 +1,6 @@
 ======= LOGIN ======
 
+Lokasi : Pindahkan folder ke htdocs/project
 Ketik di URL : localhost/isejahtera -> dengan catatan database sudah di import
 
 username : admin
